@@ -51,7 +51,26 @@ To reproduce the analysis, follow these steps:
 - Load the data into the database using the provided scripts.
 
 4. **Run the Jupyter Notebook:**
-- Open the Jupyter Notebook to view and run the analysis.
+- Open the data_analyst_case_study.ipynb notebook in Jupyter to view and run the analysis.
+
+### Project Structure
+```
+cw_lending_data_analyst_case/
+├── app/
+│ ├── init.py
+│ ├── models/
+│ │ └── init.py
+│ ├── services/
+│ │ └── init.py
+│ ├── utils/
+│ │ └── init.py
+│ ├── data/
+│ │ └── init.py
+├── .env
+├── README.md
+├── requirements.txt
+└── data_analyst_case_study.ipynb
+```
 
 ### Contact
-For any questions or further information, please contact Devid Fernando at [deivid.silva@cloudwalk.io].
+For any questions or further information, please contact Devid Fernando at deivid.silva@cloudwalk.io.
