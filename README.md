@@ -52,6 +52,7 @@ To reproduce the analysis, follow these steps:
 
 4. **Run the Jupyter Notebook:**
 - Open the data_analyst_case_study.ipynb notebook in Jupyter to view and run the analysis.
+- On the first run of the project, it will be necessary to create and populate the tables. Information about this can be found in the notebook under "CREATION AND POPULATION OF DATABASE TABLES."
 
 ### Project Structure
 ```
