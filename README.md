@@ -40,7 +40,7 @@ To reproduce the analysis, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/data-analyst-case-study.git
+   git clone https://github.com/deividfernando/cw_lending_data_analyst_case
 
 2. **Install Dependencies:**
    ```bash
